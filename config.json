@@ -1,0 +1,52 @@
+{
+  "name": "Victor Santos {visan_designer}",
+  "job": "Web Designer",
+  "github": "Victor-Santos33",
+  "playlists": {
+    "jogos": [
+      {
+        "tittle": "Como o kami carrega o jogo?",
+        "url": "https://www.youtube.com/watch?v=PLJQRBKva3Y",
+        "thumb": "https://i.ytimg.com/an_webp/PLJQRBKva3Y/mqdefault_6s.webp?du=3000&sqp=CJ60qZsG&rs=AOn4CLArICau-CtATcIAFB8e4Ezk6x81tA"
+      },
+      {
+        "tittle": "Hay Day: 10 Dicas pra vc se tornar um Milionário!!!",
+        "url": "https://www.youtube.com/watch?v=GEiFW80My4o",
+        "thumb": "https://i.ytimg.com/an_webp/GEiFW80My4o/mqdefault_6s.webp?du=3000&sqp=CJblqZsG&rs=AOn4CLAmwp5uZxiqWIaPXXUOykKvplx3qg"
+      },
+      {
+        "tittle": "COMO SUBIR 5000 TROFÉUS EM APENAS 1 DIA! CLASH ROYALE",
+        "url": "https://www.youtube.com/watch?v=ADeoOLRcGF0",
+        "thumb": "https://i.ytimg.com/an_webp/ADeoOLRcGF0/mqdefault_6s.webp?du=3000&sqp=CO_YqZsG&rs=AOn4CLBHzRV7LoYZhpFewbKqrG-PK66Q1Q"
+      
+      },
+      {
+        "tittle": "NOVA COMP CHINESA!! SENNA CARRY ESTÁ ACABANDO COM O JOGO!",
+        "url": "https://www.youtube.com/watch?v=3kFLeSoECPc",
+        "thumb": "https://i.ytimg.com/an_webp/3kFLeSoECPc/mqdefault_6s.webp?du=3000&sqp=CJG-qZsG&rs=AOn4CLBSmTM1g9s4y5F0DiVZREdGz_ZEkg"
+      }
+    ],
+    "front-end": [
+      {
+        "tittle": "7 motivos para ser um DESENVOLVEDOR MOBILE e criar APLICATIVOS",
+        "url": "https://www.youtube.com/watch?v=2AYpPZd1UDU",
+        "thumb": "https://i.ytimg.com/an_webp/2AYpPZd1UDU/mqdefault_6s.webp?du=3000&sqp=CMHhqZsG&rs=AOn4CLCtjMp_wBjyytb-GWPxl7fzxMCwzA"
+      },
+      {
+        "tittle": "Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?)",
+        "url": "https://www.youtube.com/watch?v=Lf3ZV0UsnEo&t=522s",
+        "thumb": "https://i.ytimg.com/an_webp/Lf3ZV0UsnEo/mqdefault_6s.webp?du=3000&sqp=CKbfqZsG&rs=AOn4CLDRpsaNCwFw4NcSRGEy9G02PGmo8g"
+      },
+      {
+        "tittle": "Webhooks (Os Melhores Apps Usam) // Dicionário do Programador",
+        "url": "https://www.youtube.com/watch?v=2JHKIrComW0",
+        "thumb": "https://i.ytimg.com/an_webp/2JHKIrComW0/mqdefault_6s.webp?du=3000&sqp=CNfdqZsG&rs=AOn4CLCkS7q2QZLO0zHZcCY1JEpq2ziLqg"
+      },
+      {
+        "tittle": "Cuidados com os seus dados - @Curso em Vídeo Segurança da Informação - Módulo 02",
+        "url": "https://www.youtube.com/watch?v=JzTrDRHok94",
+        "thumb": "https://i.ytimg.com/an_webp/JzTrDRHok94/mqdefault_6s.webp?du=3000&sqp=CKbDqZsG&rs=AOn4CLBNy_nx6BGmdO0x5OHgGoztd3sLqA"
+      }
+    ]
+  }
+}
